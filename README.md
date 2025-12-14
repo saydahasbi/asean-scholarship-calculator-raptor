@@ -17,6 +17,4 @@ it is for educational and demonstration purpose only.
 3. enter sample values only
 ## flowchart preview
 ![Flowchart](flowchart.png)
-## flowchart preview (Version 2)
-## Flowchart Preview (Version 2)
-![Flowchart Version 2](flowchart2.png)
+
