@@ -11,3 +11,7 @@ ASEAN Scholarship Selection Algorithm.rap_GITHUB.rap
 ## disclaimer
 this is NOT nan official scholarship systems.
 it is for educational and demonstration purpose only.
+## how to use
+1. download the .rap file
+2. open it using RAPTOR
+3. enter sample values only
