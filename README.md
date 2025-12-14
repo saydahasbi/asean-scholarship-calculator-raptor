@@ -15,3 +15,5 @@ it is for educational and demonstration purpose only.
 1. download the .rap file
 2. open it using RAPTOR
 3. enter sample values only
+## flowchart preview
+![Flowchart](flowchart.png)
